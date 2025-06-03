@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+Pillow
+pandas
+ultralytics
+fast-plate-ocr
+torch
+torchvision
+torchaudio
