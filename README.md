@@ -19,6 +19,7 @@ This project is a Streamlit web application for detecting vehicles in an image, 
 *   **OCR Debugging:** Includes an option to display intermediate steps from the OCR process for troubleshooting and tuning (though with `fast-plate-ocr`, internal steps are minimal).
 
 ## Project Structure
+```
 car_license_detection/
 │
 ├── app.py # Main Streamlit web application
@@ -32,6 +33,7 @@ car_license_detection/
 │ └── visualization.py # Drawing detection results
 ├── requirements.txt # Python dependencies
 └── README.md # This file
+```
 
 ## Setup and Installation
 
